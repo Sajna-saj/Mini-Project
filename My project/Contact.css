@@ -1,0 +1,40 @@
+.conmain{
+    background-image: url(about\ us\ bg.jpg);
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    padding: 100px 0px;
+
+}
+.sub_conmain1{
+    background-color: rgb(213, 248, 236);
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 30px;
+    row-gap: 30px;
+    padding: 50px;
+    align-items: center;
+}
+.icntxt{
+    width: 200px;
+}
+.sub_conmain2{
+    /* background-color: rgb(206, 242, 172); */
+    background-color: rgb(190, 245, 226);
+    padding: 0px 50px 50px;
+    
+}
+.sub_conmain2 input{
+    border: none;
+    height: 50px;
+    text-align: center;
+    margin-right: 20px;
+    border-radius: 15px;
+    
+}
+.sub_conmain2 form{
+    margin-bottom: 20px;
+    
+}
